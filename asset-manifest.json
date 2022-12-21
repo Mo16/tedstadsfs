@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eee3ced7.css",
+    "main.js": "/static/js/main.905725f1.js",
+    "static/js/187.3738c70d.chunk.js": "/static/js/187.3738c70d.chunk.js",
+    "static/js/563.42c9fc66.chunk.js": "/static/js/563.42c9fc66.chunk.js",
+    "static/js/942.a6d7ca5d.chunk.js": "/static/js/942.a6d7ca5d.chunk.js",
+    "static/js/787.932c68fb.chunk.js": "/static/js/787.932c68fb.chunk.js",
+    "static/js/785.66a7d4e7.chunk.js": "/static/js/785.66a7d4e7.chunk.js",
+    "static/js/419.e315711a.chunk.js": "/static/js/419.e315711a.chunk.js",
+    "static/js/48.1b5d278a.chunk.js": "/static/js/48.1b5d278a.chunk.js",
+    "static/media/mint.png": "/static/media/mint.7d6774f6a5be449cf01c.png",
+    "static/media/mint3.png": "/static/media/mint3.4ae09d8c161730f983d1.png",
+    "static/media/mint2.png": "/static/media/mint2.23c576a8992bc5ffbdac.png",
+    "static/media/logo.svg": "/static/media/logo.c0ec750d04a000c084b02beed20ea20a.svg",
+    "static/media/etherium.svg": "/static/media/etherium.cad217b562b367073ff0e25ea625b4ef.svg",
+    "index.html": "/index.html",
+    "static/media/info.svg": "/static/media/info.7533ed0b9b38f72c679801547899353c.svg",
+    "main.eee3ced7.css.map": "/static/css/main.eee3ced7.css.map",
+    "main.905725f1.js.map": "/static/js/main.905725f1.js.map",
+    "187.3738c70d.chunk.js.map": "/static/js/187.3738c70d.chunk.js.map",
+    "787.932c68fb.chunk.js.map": "/static/js/787.932c68fb.chunk.js.map",
+    "785.66a7d4e7.chunk.js.map": "/static/js/785.66a7d4e7.chunk.js.map",
+    "419.e315711a.chunk.js.map": "/static/js/419.e315711a.chunk.js.map",
+    "48.1b5d278a.chunk.js.map": "/static/js/48.1b5d278a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee3ced7.css",
+    "static/js/main.905725f1.js"
+  ]
+}
